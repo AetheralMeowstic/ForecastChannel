@@ -7071,7 +7071,34 @@
       <zoom1>0</zoom1>
       <zoom2>3</zoom2>
     </city>
-    <city jpn="ホーマ" eng="Houma" de="Houma" fr="Houma" es="Houma" it="Houma" nl="Houma">
+    <city jpn="コビントン" eng="Covington" de="Covington" fr="Covington" es="Covington" it="Covington" nl="Covington">
+      <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
+      <longitude>-90.100911</longitude>
+      <latitude>30.475470</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="切り取る" eng="Cut Off" de="Cut Off" fr="Cut Off" es="Cut Off" it="Cut Off" nl="Cut Off">
+      <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
+      <longitude>-90.33389</longitude>
+      <latitude>29.51528</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="フォルサム" eng="Folsom" de="Folsom" fr="Folsom" es="Folsom" it="Folsom" nl="Folsom">
+      <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
+      <longitude>-90.19000</longitude>
+      <latitude>30.63000</latitude>
+      <zoom1>1</zoom1>
+      <zoom2>3</zoom2>
+    </city>
+    <city jpn="ハモンド" eng="Hammond" de="Hammond" fr="Hammond" es="Hammond" it="Hammond" nl="Hammond">
+      <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
+      <longitude>-90.461200</longitude>
+      <latitude>30.504358</latitude>
+      <zoom1>0</zoom1>
+      <zoom2>3</zoom2>
+    </city>    <city jpn="ホーマ" eng="Houma" de="Houma" fr="Houma" es="Houma" it="Houma" nl="Houma">
       <province jpn="ルイジアナ州" eng="Louisiana" de="Louisiana" fr="Louisiane" es="Luisiana" it="Louisiana" nl="Louisiana" />
       <longitude>-90.714111328125</longitude>
       <latitude>29.5916748046875</latitude>
